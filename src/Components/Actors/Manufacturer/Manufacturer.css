@@ -1,0 +1,9 @@
+.Manufacturer-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Manufacturer-main button{
+    margin-top: 10px;
+}

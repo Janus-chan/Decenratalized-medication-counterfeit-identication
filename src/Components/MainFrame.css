@@ -1,0 +1,13 @@
+.frame{
+    display: inline-block;
+}
+
+.frame_items{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    padding: 2px;
+    color: aliceblue;
+    background-color: rgb(9, 9, 74);
+    margin: 10px;
+}
